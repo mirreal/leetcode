@@ -1,0 +1,25 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "LeetCode practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirreal/leetcode.git"
+  },
+  "author": "mirreal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirreal/leetcode/issues"
+  },
+  "homepage": "https://github.com/mirreal/leetcode#readme",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "chai": "^3.5.0",
+    "eslint": "^3.19.0",
+    "mocha": "^3.3.0"
+  }
+}
